@@ -1,4 +1,4 @@
-# Audio Player by adxm.o
+# Audio Player
 
 A lightweight desktop audio player for Windows with a red/black theme
 
